@@ -1,0 +1,2 @@
+cool_boffy_people = ["Queso " "Karl " "Vulpes " "Ryan " "Rita \(Who?) " "Lyss " "Houdini " "Snake " "Wrigh " "Kacchow " "Cake " "Void " "Moar " "Shade " "Carlo " "Indy " "Hisoka " "Sock " "Troy "]
+print(cool_boffy_people)  
